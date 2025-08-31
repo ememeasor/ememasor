@@ -1,0 +1,4 @@
+public mainClass {
+public static main void (String[] args){
+System.main.println("Hi world");}
+}
